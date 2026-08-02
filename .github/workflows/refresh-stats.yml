@@ -1,0 +1,38 @@
+name: refresh stats
+
+on:
+  schedule:
+    - cron: "17 5 * * *"   # once a day; time itself doesn't matter, just pick one
+  workflow_dispatch:         # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: generate stats svgs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_LOGIN: ${{ github.repository_owner }}
+          STATS_FONT_PATH: assets/fonts/jbmono-ramp.woff2
+        run: python3 scripts/generate_stats.py
+
+      - name: commit only if something changed
+        run: |
+          if [ -n "$(git status --porcelain assets/stats.svg assets/streak.svg assets/languages.svg assets/year.svg)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add assets/stats.svg assets/streak.svg assets/languages.svg assets/year.svg
+            git commit -m "chore: refresh stats"
+            git push
+          else
+            echo "no change, skipping commit"
+          fi
