@@ -10,7 +10,7 @@
 
 <img src="assets/portrait.svg" width="460" alt="ASCII portrait" />
 
-> Security-first builder. Shipping in Solidity + React, farming airdrops on the side.
+> Security-first builder. Shipping in Solidity + React, farming airdrops on the side.🚀
 
 <samp>react &nbsp;·&nbsp; solidity &nbsp;·&nbsp; vercel &nbsp;·&nbsp; python</samp>
 
