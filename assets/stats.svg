@@ -9,7 +9,7 @@
     }
      text { font-family: 'JBMonoProfile', monospace; font-size: 13px; fill: #c9d1d9; }</style>
   <rect x="0" y="0" width="480" height="140" fill="#0d1117" rx="6" />
-  <text x="10" y="28" font-size="20" font-weight="bold">35 contributions, last year</text>
+  <text x="10" y="28" font-size="20" font-weight="bold">37 contributions, last year</text>
 <rect x="10.0" y="120.0" width="12.4" height="0.0" fill="#3fb950" />
 <rect x="27.7" y="120.0" width="12.4" height="0.0" fill="#3fb950" />
 <rect x="45.4" y="120.0" width="12.4" height="0.0" fill="#3fb950" />
@@ -35,5 +35,5 @@
 <rect x="399.2" y="120.0" width="12.4" height="0.0" fill="#3fb950" />
 <rect x="416.9" y="120.0" width="12.4" height="0.0" fill="#3fb950" />
 <rect x="434.6" y="117.1" width="12.4" height="2.9" fill="#3fb950" />
-<rect x="452.3" y="117.1" width="12.4" height="2.9" fill="#3fb950" />
+<rect x="452.3" y="111.4" width="12.4" height="8.6" fill="#3fb950" />
 </svg>
