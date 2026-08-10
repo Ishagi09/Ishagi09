@@ -10,15 +10,15 @@
      text { font-family: 'JBMonoProfile', monospace; font-size: 13px; fill: #c9d1d9; }</style>
   <rect x="0" y="0" width="480" height="134" fill="#0d1117" rx="6" />
   <text x="10" y="30">JavaScript</text>
-<rect x="140" y="18" width="193.0" height="12" fill="#f1e05a" rx="2" />
-<text x="343.0" y="30">77.2%</text>
+<rect x="140" y="18" width="146.5" height="12" fill="#f1e05a" rx="2" />
+<text x="296.5" y="30">58.6%</text>
 <text x="10" y="56">Python</text>
-<rect x="140" y="44" width="51.6" height="12" fill="#3572A5" rx="2" />
-<text x="201.6" y="56">20.6%</text>
-<text x="10" y="82">Shell</text>
-<rect x="140" y="70" width="3.2" height="12" fill="#89e051" rx="2" />
-<text x="153.2" y="82">1.3%</text>
-<text x="10" y="108">HTML</text>
-<rect x="140" y="96" width="2.2" height="12" fill="#e34c26" rx="2" />
-<text x="152.2" y="108">0.9%</text>
+<rect x="140" y="44" width="65.6" height="12" fill="#3572A5" rx="2" />
+<text x="215.6" y="56">26.2%</text>
+<text x="10" y="82">HTML</text>
+<rect x="140" y="70" width="35.5" height="12" fill="#e34c26" rx="2" />
+<text x="185.5" y="82">14.2%</text>
+<text x="10" y="108">Shell</text>
+<rect x="140" y="96" width="2.4" height="12" fill="#89e051" rx="2" />
+<text x="152.4" y="108">1.0%</text>
 </svg>
