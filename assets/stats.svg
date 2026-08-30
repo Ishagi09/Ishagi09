@@ -16,12 +16,12 @@
 <rect x="63.1" y="120.0" width="12.4" height="0.0" fill="#3fb950" />
 <rect x="80.8" y="120.0" width="12.4" height="0.0" fill="#3fb950" />
 <rect x="98.5" y="120.0" width="12.4" height="0.0" fill="#3fb950" />
-<rect x="116.2" y="120.0" width="12.4" height="0.0" fill="#3fb950" />
-<rect x="133.8" y="114.3" width="12.4" height="5.7" fill="#3fb950" />
-<rect x="151.5" y="120.0" width="12.4" height="0.0" fill="#3fb950" />
-<rect x="169.2" y="91.4" width="12.4" height="28.6" fill="#3fb950" />
-<rect x="186.9" y="120.0" width="12.4" height="0.0" fill="#3fb950" />
-<rect x="204.6" y="60.0" width="12.4" height="60.0" fill="#3fb950" />
+<rect x="116.2" y="114.3" width="12.4" height="5.7" fill="#3fb950" />
+<rect x="133.8" y="120.0" width="12.4" height="0.0" fill="#3fb950" />
+<rect x="151.5" y="91.4" width="12.4" height="28.6" fill="#3fb950" />
+<rect x="169.2" y="120.0" width="12.4" height="0.0" fill="#3fb950" />
+<rect x="186.9" y="60.0" width="12.4" height="60.0" fill="#3fb950" />
+<rect x="204.6" y="120.0" width="12.4" height="0.0" fill="#3fb950" />
 <rect x="222.3" y="120.0" width="12.4" height="0.0" fill="#3fb950" />
 <rect x="240.0" y="120.0" width="12.4" height="0.0" fill="#3fb950" />
 <rect x="257.7" y="120.0" width="12.4" height="0.0" fill="#3fb950" />
@@ -30,10 +30,10 @@
 <rect x="310.8" y="120.0" width="12.4" height="0.0" fill="#3fb950" />
 <rect x="328.5" y="120.0" width="12.4" height="0.0" fill="#3fb950" />
 <rect x="346.2" y="120.0" width="12.4" height="0.0" fill="#3fb950" />
-<rect x="363.8" y="120.0" width="12.4" height="0.0" fill="#3fb950" />
-<rect x="381.5" y="117.1" width="12.4" height="2.9" fill="#3fb950" />
-<rect x="399.2" y="105.7" width="12.4" height="14.3" fill="#3fb950" />
-<rect x="416.9" y="102.9" width="12.4" height="17.1" fill="#3fb950" />
+<rect x="363.8" y="117.1" width="12.4" height="2.9" fill="#3fb950" />
+<rect x="381.5" y="105.7" width="12.4" height="14.3" fill="#3fb950" />
+<rect x="399.2" y="102.9" width="12.4" height="17.1" fill="#3fb950" />
+<rect x="416.9" y="120.0" width="12.4" height="0.0" fill="#3fb950" />
 <rect x="434.6" y="120.0" width="12.4" height="0.0" fill="#3fb950" />
 <rect x="452.3" y="120.0" width="12.4" height="0.0" fill="#3fb950" />
 </svg>
