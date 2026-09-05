@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="134"
-  viewBox="0 0 480 134">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="160"
+  viewBox="0 0 480 160">
   <style>
     @font-face {
       font-family: 'JBMonoProfile';
@@ -8,17 +8,20 @@
       font-style: normal;
     }
      text { font-family: 'JBMonoProfile', monospace; font-size: 13px; fill: #c9d1d9; }</style>
-  <rect x="0" y="0" width="480" height="134" fill="#0d1117" rx="6" />
+  <rect x="0" y="0" width="480" height="160" fill="#0d1117" rx="6" />
   <text x="10" y="30">JavaScript</text>
-<rect x="140" y="18" width="146.5" height="12" fill="#f1e05a" rx="2" />
-<text x="296.5" y="30">58.6%</text>
+<rect x="140" y="18" width="164.6" height="12" fill="#f1e05a" rx="2" />
+<text x="314.6" y="30">65.8%</text>
 <text x="10" y="56">Python</text>
-<rect x="140" y="44" width="65.6" height="12" fill="#3572A5" rx="2" />
-<text x="215.6" y="56">26.2%</text>
+<rect x="140" y="44" width="41.8" height="12" fill="#3572A5" rx="2" />
+<text x="191.8" y="56">16.7%</text>
 <text x="10" y="82">HTML</text>
-<rect x="140" y="70" width="35.5" height="12" fill="#e34c26" rx="2" />
-<text x="185.5" y="82">14.2%</text>
-<text x="10" y="108">Shell</text>
-<rect x="140" y="96" width="2.4" height="12" fill="#89e051" rx="2" />
-<text x="152.4" y="108">1.0%</text>
+<rect x="140" y="70" width="23.1" height="12" fill="#e34c26" rx="2" />
+<text x="173.1" y="82">9.3%</text>
+<text x="10" y="108">Solidity</text>
+<rect x="140" y="96" width="18.9" height="12" fill="#AA6746" rx="2" />
+<text x="168.9" y="108">7.6%</text>
+<text x="10" y="134">Shell</text>
+<rect x="140" y="122" width="1.5" height="12" fill="#89e051" rx="2" />
+<text x="151.5" y="134">0.6%</text>
 </svg>

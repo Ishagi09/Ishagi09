@@ -10,7 +10,7 @@
      text { font-family: 'JBMonoProfile', monospace; font-size: 13px; fill: #c9d1d9; }</style>
   <rect x="0" y="0" width="480" height="90" fill="#0d1117" rx="6" />
   
-    <text x="10" y="35">current streak: 0 days</text>
+    <text x="10" y="35">current streak: 2 days</text>
     <text x="10" y="65">longest streak: 2 days</text>
     
 </svg>
