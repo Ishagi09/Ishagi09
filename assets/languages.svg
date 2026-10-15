@@ -9,19 +9,19 @@
     }
      text { font-family: 'JBMonoProfile', monospace; font-size: 13px; fill: #c9d1d9; }</style>
   <rect x="0" y="0" width="480" height="160" fill="#0d1117" rx="6" />
-  <text x="10" y="30">JavaScript</text>
-<rect x="140" y="18" width="125.1" height="12" fill="#f1e05a" rx="2" />
-<text x="275.1" y="30">50.0%</text>
-<text x="10" y="56">Python</text>
-<rect x="140" y="44" width="105.9" height="12" fill="#3572A5" rx="2" />
-<text x="255.9" y="56">42.3%</text>
+  <text x="10" y="30">Python</text>
+<rect x="140" y="18" width="135.6" height="12" fill="#3572A5" rx="2" />
+<text x="285.6" y="30">54.2%</text>
+<text x="10" y="56">JavaScript</text>
+<rect x="140" y="44" width="99.3" height="12" fill="#f1e05a" rx="2" />
+<text x="249.3" y="56">39.7%</text>
 <text x="10" y="82">HTML</text>
-<rect x="140" y="70" width="9.7" height="12" fill="#e34c26" rx="2" />
-<text x="159.7" y="82">3.9%</text>
+<rect x="140" y="70" width="7.7" height="12" fill="#e34c26" rx="2" />
+<text x="157.7" y="82">3.1%</text>
 <text x="10" y="108">Solidity</text>
-<rect x="140" y="96" width="7.6" height="12" fill="#AA6746" rx="2" />
-<text x="157.6" y="108">3.1%</text>
+<rect x="140" y="96" width="6.1" height="12" fill="#AA6746" rx="2" />
+<text x="156.1" y="108">2.4%</text>
 <text x="10" y="134">CSS</text>
-<rect x="140" y="122" width="1.7" height="12" fill="#663399" rx="2" />
-<text x="151.7" y="134">0.7%</text>
+<rect x="140" y="122" width="1.4" height="12" fill="#663399" rx="2" />
+<text x="151.4" y="134">0.5%</text>
 </svg>
